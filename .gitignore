@@ -1,0 +1,9 @@
+.git
+.svn
+.hg
+CVS
+.DS_Store
+.pyc
+__pycache
+.vscode
+pw.txt
