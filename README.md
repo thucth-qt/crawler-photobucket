@@ -7,7 +7,7 @@ pip3 insatll --upgrade keyring.alt
 
 ## 3. clone this repo, change dir to dowloaded folder
 
-## 4.initialize pipenv
+## 4.initialize pipenv /activate venv
 pipenv shell
 
 ## 5. install dependencies of project
@@ -32,3 +32,7 @@ add .vscode/setting.json:
     }
     
 }
+
+## 7. run crawler
+python crawler.py
+
